@@ -49,9 +49,6 @@ body {
     background-color: #352162;
 }
 
-.bzzlogo{
-    width: 60%;
-}
 
 .text-vertical-center {
     display: table-cell;
@@ -672,9 +669,8 @@ div#frame1{
     padding-right: 0px;
 }
 
-
 .bzzlogo{
-    width: 90%;
+    width: 80% !important;
 }
 
  .resptitle{
