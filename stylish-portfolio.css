@@ -626,6 +626,10 @@ div#frame1{
     margin-top: 35%;
 }
 
+.bzzlogo{
+    width: 60%;
+}
+
 @media(max-width: 991px) {
     .container_box{
         width: 45vw;
@@ -670,7 +674,7 @@ div#frame1{
 }
 
 .bzzlogo{
-    width: 80% !important;
+    width: 90%;
 }
 
  .resptitle{
